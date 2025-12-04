@@ -1,6 +1,6 @@
 // script.js — simple chat UI logic
 // IMPORTANT: change API_URL to your Render backend URL (example shown)
-const API_URL = "https://jarvis-backend-78uf.onrender.com/"; // <- put your backend URL here
+ const API_URL = "https://jarvis-backend-78uf.onrender.com"; //<- put your backend URL here
 
 const form = document.querySelector("#chat-form");
 const input = document.querySelector("#message-input");
